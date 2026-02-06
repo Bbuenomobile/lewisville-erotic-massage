@@ -1,0 +1,16 @@
+{
+    "name": "Lewisville Erotic massage",
+    "short_name": "Lewisville Erotic Massage \ud83c\udf0d",
+    "description": "Discover the best erotic massage in Lewisville with 0 verified venues. Experience sensual relaxation amid Texas charm. Book your session today in Lewisville's intimate spots!",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#e91e63",
+    "icons": [
+        {
+            "src": "/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
